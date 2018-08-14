@@ -1,4 +1,7 @@
 # pure-typescript
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zixia/pure-typescript.svg)](https://greenkeeper.io/)
+
 Pure Typescript Loader for running typescript death easy as javascript
 
 # Under Construction...
