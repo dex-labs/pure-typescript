@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/zixia/pure-typescript#readme",
   "dependencies": {
-    "@types/node": "^7.0.0",
-    "source-map-support": "^0.4.15",
-    "typescript": "^2.3.1",
-    "typescript-simple": "^7.0.0",
-    "yargs": "^6.6.0"
+    "@types/node": "^10.7.0",
+    "source-map-support": "^0.5.8",
+    "typescript": "^3.0.1",
+    "typescript-simple": "^8.0.6",
+    "yargs": "^12.0.1"
   },
   "files": [
     "package.json",
@@ -40,7 +40,7 @@
     "pts": "bin/pts.js"
   },
   "devDependencies": {
-    "sinon": "^1.17.6",
-    "tap": "^10.3.1"
+    "sinon": "^6.1.5",
+    "tap": "^12.0.1"
   }
 }
